@@ -1,0 +1,12 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+}
+
+* {
+    border: 2px solid limegreen;
+}
+
+h1 {
+    color: #1c1b1b;
+}
